@@ -35,3 +35,8 @@ build/
 
 ### VS Code ###
 .vscode/
+
+
+### ASTRA ###
+application.yml
+secure-connect.zip
