@@ -1,4 +1,4 @@
-package io.opensource;
+package io.opensource.inbox;
 
 import java.io.File;
 

@@ -1,4 +1,4 @@
-package io.opensource;
+package io.opensource.inbox;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.http.HttpStatus;
